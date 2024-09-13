@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Asif Islam - Personal Website</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on Asif Islam - Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Sep 2024 18:46:59 -0400</lastBuildDate>
+    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introductions</title>
+      <link>https://example.org/post/introductions/</link>
+      <pubDate>Thu, 12 Sep 2024 18:46:59 -0400</pubDate>
+      <guid>https://example.org/post/introductions/</guid>
+      <description>Who am I? Hello, I am Asif Islam, a 4th year computer science major at the University of Florida.</description>
+    </item>
+  </channel>
+</rss>

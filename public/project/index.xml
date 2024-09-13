@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Asif Islam - Personal Website</title>
+    <link>https://example.org/project/</link>
+    <description>Recent content in Projects on Asif Islam - Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Aug 2023 18:46:59 -0400</lastBuildDate>
+    <atom:link href="https://example.org/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UF Student Government Legislative Tracker</title>
+      <link>https://example.org/project/sg-tracker/</link>
+      <pubDate>Sat, 19 Aug 2023 18:46:59 -0400</pubDate>
+      <guid>https://example.org/project/sg-tracker/</guid>
+      <description>Improving the transparency of UF Student Government Senate UF’s Student Government (SG) Senate authors many pieces of legislation each semester, yet students often have no idea of the status of these bills or even what the details of these bills are. The SG website displays legislation only by bill number, causing students to tediously download files and individually check the subject of each bill.&#xA;Therefore, I created a web app to address these issues with transparency and accessibility: UF SG Legislative Tracker</description>
+    </item>
+  </channel>
+</rss>
