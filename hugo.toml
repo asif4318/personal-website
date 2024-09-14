@@ -8,7 +8,7 @@ enableRobotsTXT = true
 [params]
   text_color = "black"
   author = "Asif Islam"
-  images = ['og-logo.jpg']
+  images = ['images/og-logo.jpg']
   favicon = ""
   site_logo = ""
   description = "Aspring Developer and Statician"
