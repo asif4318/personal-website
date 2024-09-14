@@ -10,4 +10,4 @@ I am currently a student at the University of Florida, Honors Class of 2025, stu
 
 I've had a variety of involvments over the course of my years in university including cultural organizations and being a senator in UF's Student Government Senate.
 
-Check out my GitHub and LinkedIn using the icons above on the right-hand side.
+Check out my GitHub and LinkedIn using the icons above.
