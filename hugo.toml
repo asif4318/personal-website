@@ -9,7 +9,7 @@ enableRobotsTXT = true
   text_color = "black"
   author = "Asif Islam"
   images = ['images/og-logo.jpg']
-  favicon = ""
+  favicon = "images/og-logo.jpg"
   site_logo = ""
   description = "Aspring Developer and Statician"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
