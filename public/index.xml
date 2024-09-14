@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asif Islam on Asif Islam - Personal Website</title>
-    <link>https://example.org/</link>
+    <link>https://asifislam.web.app/</link>
     <description>Recent content in Asif Islam on Asif Islam - Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Sep 2024 01:15:58 -0400</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://asifislam.web.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Continuous Deployment of My Personal Website</title>
-      <link>https://example.org/post/github-actions/</link>
+      <link>https://asifislam.web.app/post/github-actions/</link>
       <pubDate>Fri, 13 Sep 2024 01:15:58 -0400</pubDate>
-      <guid>https://example.org/post/github-actions/</guid>
+      <guid>https://asifislam.web.app/post/github-actions/</guid>
       <description>Configuring Firebase Hosting with Github Actions for CI/CD Why use Continuous Integration / Continuous Deployment (CI/CD)? I use continuous deployment and integration to streamline the workflows of building this website rapidly. I focus on making quick, incremental changes to the site. These changes can be quickly tested, pushed to the repository, and then automatically be deployed to production.&#xA;Explaining the Technology and Tools: Diagram depicting GitHub Actions Workflow to publish changes to code automatically on Firebase</description>
     </item>
     <item>
       <title>Introductions</title>
-      <link>https://example.org/post/introductions/</link>
+      <link>https://asifislam.web.app/post/introductions/</link>
       <pubDate>Thu, 12 Sep 2024 18:46:59 -0400</pubDate>
-      <guid>https://example.org/post/introductions/</guid>
+      <guid>https://asifislam.web.app/post/introductions/</guid>
       <description>Who am I? Hello, I am Asif Islam, a 4th year computer science major at the University of Florida.</description>
     </item>
     <item>
       <title>UF Student Government Legislative Tracker</title>
-      <link>https://example.org/project/sg-tracker/</link>
+      <link>https://asifislam.web.app/project/sg-tracker/</link>
       <pubDate>Sat, 19 Aug 2023 18:46:59 -0400</pubDate>
-      <guid>https://example.org/project/sg-tracker/</guid>
+      <guid>https://asifislam.web.app/project/sg-tracker/</guid>
       <description>Improving the transparency of UF Student Government Senate UF’s Student Government (SG) Senate authors many pieces of legislation each semester, yet students often have no idea of the status of these bills or even what the details of these bills are. The SG website displays legislation only by bill number, causing students to tediously download files and individually check the subject of each bill.&#xA;Therefore, I created a web app to address these issues with transparency and accessibility: UF SG Legislative Tracker</description>
     </item>
   </channel>
