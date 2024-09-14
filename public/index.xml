@@ -13,7 +13,7 @@
       <link>https://example.org/post/github-actions/</link>
       <pubDate>Fri, 13 Sep 2024 01:15:58 -0400</pubDate>
       <guid>https://example.org/post/github-actions/</guid>
-      <description>Configuring Firebase Hosting with Github Actions for CI/CD Why use Continuous Integration / Continuous Deployment (CI/CD)? I use continuous deployment and integration to streamline the workflows of building this website rapidly. I focus on making quick, incremental changes to the site. These changes can be quickly tested, pushed to the repository, and then automatically be deployed to production.&#xA;Explainging the Techonolgy and Tools: Diagram depicting GitHub Actions Workflow to publish changes to code automatically on Firebase</description>
+      <description>Configuring Firebase Hosting with Github Actions for CI/CD Why use Continuous Integration / Continuous Deployment (CI/CD)? I use continuous deployment and integration to streamline the workflows of building this website rapidly. I focus on making quick, incremental changes to the site. These changes can be quickly tested, pushed to the repository, and then automatically be deployed to production.&#xA;Explaining the Technology and Tools: Diagram depicting GitHub Actions Workflow to publish changes to code automatically on Firebase</description>
     </item>
     <item>
       <title>Introductions</title>

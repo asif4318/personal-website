@@ -10,7 +10,7 @@ draft = false
 
 I use continuous deployment and integration to streamline the workflows of building this website rapidly. I focus on making quick, incremental changes to the site. These changes can be quickly tested, pushed to the repository, and then automatically be deployed to production.
 
-## Explainging the Techonolgy and Tools:
+## Explaining the Technology and Tools:
 
 ![Diagram depicting GitHub Actions Workflow to publish changes to code automatically on Firebase](github_actions_diagram.jpg)
 
