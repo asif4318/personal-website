@@ -2,13 +2,13 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Asif Islam - Personal Website'
 theme = 'ananke'
-
 enableRobotsTXT = true
 
 
 [params]
   text_color = "black"
   author = "Asif Islam"
+  images = ['og-logo.jpg']
   favicon = ""
   site_logo = ""
   description = "Aspring Developer and Statician"
